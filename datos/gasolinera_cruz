@@ -1,0 +1,13 @@
+tipo:diesel:12000:1000.0
+tipo:extra:20000:20000.0
+tipo:corriente:15000:1000.0
+tipo:plus:25000:18000.0
+surtidor:Sebastian Plazas:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:Juliana Garcia:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:Juliana Garcia:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:Sebastian Plazas:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+empleado:Andres Lopez:0
+empleado:Juliana Garcia:0
+empleado:Alejandro Cruz:0
+empleado:Sebastian Plazas:0
+empleado:Juan Jose Meza:0
